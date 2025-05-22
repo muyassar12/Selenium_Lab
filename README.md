@@ -62,3 +62,4 @@ Internet aloqasi barqaror bo'lishi kerak.
 Agar sayt tuzilmasi o'zgarsa, XPath so'rovlarini yangilash kerak bo'lishi mumkin.
 Har safar skript ishga tushganda eski posts.db fayli o'chiriladi va yangisi yaratiladi.
 
+# Selenium_Lab
